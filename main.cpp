@@ -14,7 +14,9 @@
 #include <thread>
 #include <chrono>
 using namespace std;
-
+//
+// UNIT TESTING
+//
 void TestFunctionality(
   const vector<string>& docs,
   const vector<string>& queries,
